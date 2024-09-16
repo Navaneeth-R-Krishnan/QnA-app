@@ -1,1 +1,1 @@
-# QnA application - Google PaLM model and FIASS 
+# QnA application - Google PaLM model and FAISS 
